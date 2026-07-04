@@ -60,7 +60,8 @@ prefer-no-csd
 //
 
 // Background
-spawn-at-startup "swaybg" "-i" "/home/lars/Nextcloud/Pictures/Wallpapers/wallpaper"
+//spawn-at-startup "swaybg" "-i" "/home/lars/Nextcloud/Pictures/Wallpapers/wallpaper"
+spawn-at-startup "swaybg" "-i" "~/.config/img/wallpaper.png"
 
 // Bar
 spawn-at-startup "waybar"

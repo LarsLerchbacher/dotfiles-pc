@@ -1,0 +1,27 @@
+// -*- submap: jsonc -*-
+{
+    // "position": "bottom", // Waybar position (top|bottom|left|right)
+    "height": 30,
+    "spacing": 1, // Gaps between modules (4px)
+    "layer": "top",
+    "modules-left": [
+	    "clock"
+    ],
+    "modules-center": [
+	"niri/window"
+    ],
+    "modules-right": [
+	"tray",
+	"niri/workspaces",
+        "custom/menu"
+    ],
+
+    "niri/window": {
+	     "format": "{title:.60}"
+    },
+
+    "tray": {
+        "spacing": 10
+    }
+
+}

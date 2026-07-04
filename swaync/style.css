@@ -1,0 +1,34 @@
+
+.notification {
+	background: #3d484d;
+	padding: 7px;
+	border: #3d484d;
+	border-radius: 0;
+  	box-shadow: 2px 2px 2px #0B0D0E;
+}
+
+.notification * {
+	background-color: #3d484d;
+}
+
+.control-center {
+	background: #3d484de6;
+	margin: 8px;
+	border-radius: 0;
+	box-shadow: none;
+}
+
+.widget-mpris-player {
+	border-radius: 0;
+}
+
+.control-center .notification-group, .control-center .notification-group:hover{
+	background: transparent;
+	border: none;
+}
+
+.control-center .notification {
+	border: none;
+  	box-shadow: 2px 2px 2px #0B0D0E;
+	border-radius: 0;
+}

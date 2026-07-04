@@ -1,0 +1,19 @@
+
+[general]
+import = [
+	"~/.config/alacritty/themes/everforest_dark_medium.toml",
+]
+
+[window]
+padding = { x = 10, y = 10 }
+decorations = "None"
+opacity = 0.85
+#opacity = 1
+blur = true
+
+[font]
+size = 11
+
+[font.normal]
+family = "Liberation Mono"
+

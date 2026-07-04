@@ -1,0 +1,181 @@
+ * {
+        margin: 0;
+        padding: 0;
+}
+
+
+window {
+  background: none;
+}
+
+.main {
+    background-color: rgba(0, 0, 0, 0);
+    color: #d3c6aa;
+}
+
+.columnOne {
+  min-width: 500px;
+  margin-bottom: 2px;
+}
+
+.columnTwo {
+  min-width: 500px;
+  margin-bottom: 2px;
+}
+
+.columnThree {
+  margin-bottom: 2px;
+}
+
+.profile {
+  background-image: url("/home/lars/.face.icon");
+  background-repeat: no-repeat;
+  background-size: 200px;
+  background-position: center;
+  min-height: 200px;
+  min-width: 200px;
+  margin: 75px 150px 0px 150px;
+  border-radius: 500px;
+  border: 5px solid #859289;
+}
+
+.profileText {
+  font-size: 32pt;
+  margin: 25px;
+  margin-bottom: 150px;
+}
+
+.card {
+  background-color: rgba(35, 42, 46, 0.95);
+  box-shadow: 2px 2px 2px #0B0D0E;
+}
+
+.buttons {
+  min-width: 192.5px;
+  margin-bottom: 2px;
+}
+
+.buttons button {
+  border-radius: 0;
+  background-color: rgba(35, 42, 46, 0.95);
+  box-shadow: 2px 2px 2px #0B0D0E;
+}
+
+.powerOff {
+  color: #e67e80;
+  font-size: 32pt;
+}
+
+.powerOff:active {
+  background-color: #e67e80;
+  color: #B02124;
+}
+
+.reboot {
+  padding: 10px 0px 10px 0px;
+  font-size: 48pt;
+  color: #a7c080;
+}
+
+.reboot:active {
+  background-color: #a7c080;
+  color: #586D36;
+}
+
+.logout {
+  padding: 10px 0px 10px 0px;
+  font-size: 32pt;
+  color: #7fbbb3;
+}
+
+.logout:active {
+  background-color: #7fbbb3;
+  color: #386B64;
+}
+
+.sleep {
+  font-size: 32pt;
+  color: #dbbc7f;
+}
+
+.sleep:active {
+  background-color: #dbbc7f;
+  color: #A37C2E;
+}
+
+button {
+  padding: 5px;
+  background-color: #3d484d;
+}
+
+button:hover {
+  background-color: #475258;
+}
+
+button:active {
+  background-color: #a7c080;
+  color: #3F4F27;
+}
+
+.player {
+  min-height: 200px;
+  margin: 25px 25px 0px 25px;
+  border-radius: 10px;
+}
+
+.player .song {
+  font-size: 18pt;
+  font-weight: bold;
+}
+
+.player .artist {
+  font-size: 14pt;
+}
+
+.player trough {
+  background-color: grey;
+  margin: 10px;
+}
+
+.player trough progress {
+  background-color: white;
+}
+
+.media-controls button {
+  margin: 10px 10px 25px 10px;
+  background: none;
+  font-weight: bold;
+  border-radius: 0;
+}
+
+.bluetoothBtn {
+  margin: 10px;
+  margin-top: 250px;
+  background: none;
+  border-radius: 0;
+}
+
+.devicesHeader {
+  font-size: 14pt;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.devices {
+  margin: 25px;
+}
+
+.timer {
+  margin: 25px;
+}
+
+.timer trough {
+  min-width: 50px;
+  border-radius: 0;
+}
+
+.timer trough progress {
+  min-width: 50px;
+  border-radius: 0;
+}
+

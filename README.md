@@ -7,7 +7,7 @@ Currently, I am reworking my system and will be doing a new rice afterwards.<br>
 I'm pretty inexperienced in ricing, so it's nothing special.<br>
 
 ## Screenshot
-![img/Empty-workspace.png]
+![A picture of foggy hills](img/Empty-workspace.png)
 
 More can be found in the `img/` directory.
 

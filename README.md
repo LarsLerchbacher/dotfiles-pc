@@ -5,6 +5,7 @@ PC Dotfiles
 These are my PC's dotfiles<br>
 Currently, I am reworking my system and will be doing a new rice afterwards.<br>
 I'm pretty inexperienced in ricing, so it's nothing special.<br>
+The contents of this repository are licensed under the MIT license. For details see the LICENSE file.
 
 ## Screenshot
 ![A picture of foggy hills](img/Empty-workspace.png)

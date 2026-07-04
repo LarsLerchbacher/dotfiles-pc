@@ -15,14 +15,14 @@ More can be found in the `img/` directory.
 This rice uses the everforest color theme
 
 ## Programs
-WM: niri
-Bar: waybar
-Editor: Nvim (included) + VSCodium (not included)
-Notifications: swaync
-Widgets: Eww
-Launcher/Menu: wofi
-Fetch: fastfetch
-Process manager: htop
+- WM: niri
+- Bar: waybar
+- Editor: Nvim (included) + VSCodium (not included)
+- Notifications: swaync
+- Widgets: Eww
+- Launcher/Menu: wofi
+- Fetch: fastfetch
+- Process manager: htop
 
 
 ## Installation

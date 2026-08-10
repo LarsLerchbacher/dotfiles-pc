@@ -3,25 +3,31 @@ PC Dotfiles
 ============
 
 These are my PC's dotfiles<br>
-Currently, I am reworking my system and will be doing a new rice afterwards.<br>
-I'm pretty inexperienced in ricing, so it's nothing special.<br>
 The contents of this repository are licensed under the MIT license. For details see the LICENSE file.
+This rice is supposed to mirror the appearance of MacOS.
+
+## Previous Rice Versions
+Niri based everforest sharp edged rice: until commit 2d5a81fdde52a95236fce131fe9c8c57e9d9aacd
 
 ## Screenshot
-![A picture of foggy hills](img/Empty-workspace.png)
+![A Mac OS like desktop with an abstract wallpaper consisting of colors](img/Empty-workspace.png)
+This wallpaper is from the GNOME default wallpapers.
+Here is its license:
+  Copyright © 2023 David Lapshin <ddaudix@gmail.com> 
+  Licensed under Creative Commons Attribution-ShareAlike 3.0 License.
 
 More can be found in the `img/` directory.
 
+## License
+This repo is licensed under the MIT license, except for the files in `img/` which are licensed under CC-BY-SA 3.0. See `img/LICENSE` for details
+
 ## Color theme
-This rice uses the everforest color theme
+This rice uses the ayu dark color theme
 
 ## Programs
-- WM: niri
-- Bar: waybar
+- DE: Gnome
+- Files: Nautilus
 - Editor: Nvim (included) + VSCodium (not included)
-- Notifications: swaync
-- Widgets: Eww
-- Launcher/Menu: wofi
 - Fetch: fastfetch
 - Process manager: htop
 
@@ -45,8 +51,10 @@ mkdir ~/.config
 git clone https://github.com/LarsLerchbacher/dotfiles-pc ~/.config
 ```
 - Copy over all required configurations, that do not conflict with the ones from this repo, from ~/.config.bak into ~/.config
-- Install the required programs
-- Download the Everforest GTK Theme from [it's GitHub repo](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme) and put the folder of the version you want into /usr/share/themes
+- Install GNOME
+- Install the WhiteSur GTK and Icon Theme
+- Install traffic-light-buttons-gtk
+- Download some Mac OS wallpapers and set one in the GNOME config
 - Reboot
 
 And you're good to go!

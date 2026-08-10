@@ -1,13 +1,13 @@
 
 [general]
 import = [
-	"~/.config/alacritty/themes/everforest_dark_medium.toml",
+	"~/.config/alacritty/themes/ayu-dark.toml",
 ]
 
 [window]
 padding = { x = 10, y = 10 }
 decorations = "None"
-opacity = 0.85
+opacity = 1.0
 #opacity = 1
 blur = true
 

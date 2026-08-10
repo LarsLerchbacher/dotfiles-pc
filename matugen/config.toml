@@ -1,0 +1,10 @@
+[config]
+caching = false
+
+[templates.css]
+input_path = '~/.config/matugen/colors.css'
+output_path = '~/.config/matugen/colors_out.css'
+
+[templates.nvim]
+input_path = '~/.config/matugen/nvim.lua'
+output_path = '~/.config/nvim/lua/colors.lua'

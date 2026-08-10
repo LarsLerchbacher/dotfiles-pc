@@ -1,0 +1,33 @@
+# Colors (Ayu Dark)
+
+# Terminal colorscheme (modified from ayu_dark, alacritty-theme repo):
+#  Licensed under Apache License 2.0 — see ../LICENSE
+  
+#  Changes: Modified color values by Lars Lerchbacher, 2026, from the original theme.
+
+# Default colors
+[colors.primary]
+background = '#0A0E14'
+foreground = '#B3B1AD'
+
+# Normal colors
+[colors.normal]
+black   = '#01060E'
+red     = '#EA6C73'
+green   = '#91B362'
+yellow  = '#F9AF4F'
+blue    = '#53BDFA'
+magenta = '#9870c3'
+cyan    = '#90E1C6'
+white   = '#C7C7C7'
+
+# Bright colors
+[colors.bright]
+black   = '#686868'
+red     = '#F07178'
+green   = '#C2D94C'
+yellow  = '#FFB454'
+blue    = '#59C2FF'
+magenta = '#b294d2'
+cyan    = '#95E6CB'
+white   = '#FFFFFF'

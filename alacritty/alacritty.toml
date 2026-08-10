@@ -1,15 +1,11 @@
 
 [general]
 import = [
-	"~/.config/alacritty/themes/ayu-dark.toml",
+	"~/.config/alacritty/themes/themes/ayu_dark.toml",
 ]
 
 [window]
 padding = { x = 10, y = 10 }
-decorations = "None"
-opacity = 1.0
-#opacity = 1
-blur = true
 
 [font]
 size = 11

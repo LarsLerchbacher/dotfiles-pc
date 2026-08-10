@@ -11,7 +11,7 @@ Niri based everforest sharp edged rice: until commit 2d5a81fdde52a95236fce131fe9
 
 ## Screenshot
 ![A Mac OS like desktop with an abstract wallpaper consisting of colors](img/Terminal.png)
-This wallpaper is from the GNOME default wallpapers.<br>
+The wallpaper is from the GNOME default wallpapers.<br>
   Copyright © 2023 David Lapshin <ddaudix@gmail.com> <br>
   Licensed under Creative Commons Attribution-ShareAlike 3.0 License.<br>
 
